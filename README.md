@@ -1,16 +1,29 @@
-### Hi there 👋
+# <p align="center"> 🌟 My Profile 🌟 </p>
 
-<!--
-**Pickle-Tree/Pickle-Tree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="150" height="150" src="your_profile_picture_url.jpg">
+</p>
 
-Here are some ideas to get you started:
+## <p align="center"> 👩‍💻 Basic Imformation </p>
+- **Name:** Lee Du Won
+- **Brith Date:** 2004. 03. 18.
+- **Gender:** Male
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <p align="center"> 📚 Education </p>
+- **School:** Gachon University
+- **Major:** Artificial Intelligence
+- **Student ID** 202334505
+
+## <p align="center"> 💻 Technical Skills </p>
+- **Programming-Language:** Python, C-Language ...(Planned to increase in the future😁)
+
+## <p align="center"> 🎨 Hobby </p>
+- Watching a Movie🎞️
+- Listening to Music🎼
+- Playing League Of Legneds🎮
+- Reading a Book📕
+
+## <p align="center"> 📧 Contact </p>
+- **E-mail:** bestldw0318@naver.com
+- **GitHub:** https://github.com/Pickle-Tree
+- **Instagram:** @bestldw0318
