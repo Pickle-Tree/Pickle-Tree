@@ -1,7 +1,6 @@
-# <div align="center">🌟 My Profile 🌟</div>
+# 🌟 My Profile 🌟
 
-
-## <p align="center"> 👩‍💻 Basic Information </p>
+## 👩‍💻 Basic Information
 - **Name:** Lee Du Won
 - **Birth Date:** 2004. 03. 18.
 - **Gender:** Male
