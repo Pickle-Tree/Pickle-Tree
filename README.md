@@ -1,21 +1,21 @@
 # <p align="center"> 🌟 My Profile 🌟 </p>
-## <p align="center"> 👩‍💻 Basic Imformation </p>
+## <p align="center"> 👩‍💻 Basic Information </p>
 - **Name:** Lee Du Won
-- **Brith Date:** 2004. 03. 18.
+- **Birth Date:** 2004. 03. 18.
 - **Gender:** Male
 
 ## <p align="center"> 📚 Education </p>
 - **School:** Gachon University
 - **Major:** Artificial Intelligence
-- **Student ID** 202334505
+- **Student ID:** 202334505
 
 ## <p align="center"> 💻 Technical Skills </p>
-- **Programming-Language:** Python, C-Language ...(Planned to increase in the future😁)
+- **Programming Language:** Python, C-Language ...(Planned to increase in the future😁)
 
 ## <p align="center"> 🎨 Hobby </p>
 - Watching a Movie🎞️
 - Listening to Music🎼
-- Playing League Of Legneds🎮
+- Playing League Of Legends🎮
 - Reading a Book📕
 
 ## <p align="center"> 📧 Contact </p>
