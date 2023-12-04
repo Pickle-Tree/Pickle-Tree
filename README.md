@@ -1,4 +1,5 @@
-# <p align="center"> 🌟 My Profile 🌟 </p>
+# <div align="center">🌟 My Profile 🌟</div>
+
 
 ## <p align="center"> 👩‍💻 Basic Information </p>
 - **Name:** Lee Du Won
