@@ -1,9 +1,4 @@
 # <p align="center"> 🌟 My Profile 🌟 </p>
-
-<p align="center">
-  <img width="150" height="150" src="증명사진.jpg">
-</p>
-
 ## <p align="center"> 👩‍💻 Basic Imformation </p>
 - **Name:** Lee Du Won
 - **Brith Date:** 2004. 03. 18.
